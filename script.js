@@ -3,9 +3,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Define an array of links with labels
     const links = [
-        { label: "Google", url: "https://www.google.com" },
-        { label: "Facebook", url: "https://www.facebook.com" },
-        { label: "Twitter", url: "https://www.twitter.com" },
         { label: "Gowoon", url: "http://gw.hs.kr" },
         { label: "Sje", url: "https://www.sje.go.kr" },
         { label: "Poster Edit", url: "https://docs.google.com/spreadsheets/d/1GO2w3A3x2xIUDrd3RMZ5gxGDg1w9wcOH010fq8ho4sY/edit?pli=1#gid=0" },

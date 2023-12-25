@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { label: "Google", url: "https://www.google.com" },
         { label: "Facebook", url: "https://www.facebook.com" },
         { label: "Twitter", url: "https://www.twitter.com" },
-        { label: "Gowoon", url: "https://gw.hs.kr" },
+        { label: "Gowoon", url: "http://gw.hs.kr" },
         { label: "Sje", url: "https://www.sje.go.kr" },
         { label: "Sjefree", url: "https://www.sje.go.kr/free" },
         { label: "kdng", url: "https://kdng.kr" },

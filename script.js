@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { label: "Twitter", url: "https://www.twitter.com" },
         { label: "Gowoon", url: "http://gw.hs.kr" },
         { label: "Sje", url: "https://www.sje.go.kr" },
-        { label: "Sjefree", url: "https://www.sje.go.kr/free" },
+        { label: "Poster Edit", url: "https://docs.google.com/spreadsheets/d/1GO2w3A3x2xIUDrd3RMZ5gxGDg1w9wcOH010fq8ho4sY/edit?pli=1#gid=0" },
         { label: "kdng", url: "https://kdng.kr" },
         { label: "neisplus", url: "https://neisplus.kr" },
         // Add more links as needed
